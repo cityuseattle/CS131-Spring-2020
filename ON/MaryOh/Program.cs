@@ -6,11 +6,13 @@ namespace MaryOh
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("    /|");
-            Console.WriteLine("   / |");
-            Console.WriteLine("  /  |");
-            Console.WriteLine(" /   |");
-            Console.WriteLine("/____|");
+            string Name = "Mary";
+            int Age = 27;
+            bool isFemale = true;
+
+            Console.WriteLine(Name);
+            Console.WriteLine(Age);
+            Console.WriteLine(isFemale);
         }
     }
 }
