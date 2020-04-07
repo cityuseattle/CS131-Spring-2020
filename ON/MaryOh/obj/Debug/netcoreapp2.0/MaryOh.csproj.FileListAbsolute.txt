@@ -1,0 +1,10 @@
+/Users/maryoh/dev/CS131-Spring-2020/ON/MaryOh/bin/Debug/netcoreapp2.0/MaryOh.deps.json
+/Users/maryoh/dev/CS131-Spring-2020/ON/MaryOh/bin/Debug/netcoreapp2.0/MaryOh.runtimeconfig.json
+/Users/maryoh/dev/CS131-Spring-2020/ON/MaryOh/bin/Debug/netcoreapp2.0/MaryOh.runtimeconfig.dev.json
+/Users/maryoh/dev/CS131-Spring-2020/ON/MaryOh/bin/Debug/netcoreapp2.0/MaryOh.dll
+/Users/maryoh/dev/CS131-Spring-2020/ON/MaryOh/bin/Debug/netcoreapp2.0/MaryOh.pdb
+/Users/maryoh/dev/CS131-Spring-2020/ON/MaryOh/obj/Debug/netcoreapp2.0/MaryOh.csproj.CoreCompileInputs.cache
+/Users/maryoh/dev/CS131-Spring-2020/ON/MaryOh/obj/Debug/netcoreapp2.0/MaryOh.AssemblyInfoInputs.cache
+/Users/maryoh/dev/CS131-Spring-2020/ON/MaryOh/obj/Debug/netcoreapp2.0/MaryOh.AssemblyInfo.cs
+/Users/maryoh/dev/CS131-Spring-2020/ON/MaryOh/obj/Debug/netcoreapp2.0/MaryOh.dll
+/Users/maryoh/dev/CS131-Spring-2020/ON/MaryOh/obj/Debug/netcoreapp2.0/MaryOh.pdb
