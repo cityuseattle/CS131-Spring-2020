@@ -6,13 +6,19 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-           string Name = "David";
+           //These are the set variables
            int Age = 25;
            bool isFemale = false;
            double MyFloat = 10.1;
 
-           Console.WriteLine(Name);
-           Console.WriteLine(Age);
+
+           //Reads the 
+           Console.Write("What is your name?");
+           string Name = Console.ReadLine(); //reads the Users prompt
+           Console.WriteLine("Hello "+ Name);
+
+           //continues the program
+           Console.WriteLine("You are " + Age);
            Console.WriteLine(isFemale);
            Console.WriteLine(MyFloat);
         }
