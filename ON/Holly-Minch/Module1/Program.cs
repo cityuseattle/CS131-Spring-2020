@@ -15,5 +15,6 @@ namespace HelloWorld
             Console.WriteLine(Age);
             Console.WriteLine(isFemale);
         }
-    }Random
+    }
 }
+///TEst
