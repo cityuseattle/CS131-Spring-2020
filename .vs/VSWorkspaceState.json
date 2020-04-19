@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\IN",
-    "\\ON",
-    "\\ON\\HelloWorld",
-    "\\ON\\HelloWorld\\HelloWorld"
+    "\\ON"
   ],
-  "SelectedNode": "\\ON\\HelloWorld\\HelloWorld\\Program.cs",
+  "SelectedNode": "\\ON",
   "PreviewInSolutionExplorer": false
 }
