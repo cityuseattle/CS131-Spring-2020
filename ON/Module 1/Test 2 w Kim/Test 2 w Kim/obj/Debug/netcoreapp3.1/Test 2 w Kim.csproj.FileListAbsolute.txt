@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 1\Test 2 w Kim\Test 2 w Kim\bin\Debug\netcoreapp3.1\Test 2 w Kim.exe
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 1\Test 2 w Kim\Test 2 w Kim\bin\Debug\netcoreapp3.1\Test 2 w Kim.deps.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 1\Test 2 w Kim\Test 2 w Kim\bin\Debug\netcoreapp3.1\Test 2 w Kim.runtimeconfig.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 1\Test 2 w Kim\Test 2 w Kim\bin\Debug\netcoreapp3.1\Test 2 w Kim.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 1\Test 2 w Kim\Test 2 w Kim\bin\Debug\netcoreapp3.1\Test 2 w Kim.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 1\Test 2 w Kim\Test 2 w Kim\bin\Debug\netcoreapp3.1\Test 2 w Kim.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 1\Test 2 w Kim\Test 2 w Kim\obj\Debug\netcoreapp3.1\Test 2 w Kim.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 1\Test 2 w Kim\Test 2 w Kim\obj\Debug\netcoreapp3.1\Test 2 w Kim.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 1\Test 2 w Kim\Test 2 w Kim\obj\Debug\netcoreapp3.1\Test 2 w Kim.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 1\Test 2 w Kim\Test 2 w Kim\obj\Debug\netcoreapp3.1\Test 2 w Kim.AssemblyInfo.cs
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 1\Test 2 w Kim\Test 2 w Kim\obj\Debug\netcoreapp3.1\Test 2 w Kim.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 1\Test 2 w Kim\Test 2 w Kim\obj\Debug\netcoreapp3.1\Test 2 w Kim.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 1\Test 2 w Kim\Test 2 w Kim\obj\Debug\netcoreapp3.1\Test 2 w Kim.genruntimeconfig.cache
