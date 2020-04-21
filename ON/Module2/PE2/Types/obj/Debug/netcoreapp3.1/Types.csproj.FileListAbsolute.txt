@@ -1,0 +1,13 @@
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/PE2/Types/bin/Debug/netcoreapp3.1/Types
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/PE2/Types/bin/Debug/netcoreapp3.1/Types.deps.json
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/PE2/Types/bin/Debug/netcoreapp3.1/Types.runtimeconfig.json
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/PE2/Types/bin/Debug/netcoreapp3.1/Types.runtimeconfig.dev.json
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/PE2/Types/bin/Debug/netcoreapp3.1/Types.dll
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/PE2/Types/bin/Debug/netcoreapp3.1/Types.pdb
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/PE2/Types/obj/Debug/netcoreapp3.1/Types.csprojAssemblyReference.cache
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/PE2/Types/obj/Debug/netcoreapp3.1/Types.csproj.CoreCompileInputs.cache
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/PE2/Types/obj/Debug/netcoreapp3.1/Types.AssemblyInfoInputs.cache
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/PE2/Types/obj/Debug/netcoreapp3.1/Types.AssemblyInfo.cs
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/PE2/Types/obj/Debug/netcoreapp3.1/Types.dll
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/PE2/Types/obj/Debug/netcoreapp3.1/Types.pdb
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/PE2/Types/obj/Debug/netcoreapp3.1/Types.genruntimeconfig.cache
