@@ -1,0 +1,12 @@
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Enums\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Enums\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache

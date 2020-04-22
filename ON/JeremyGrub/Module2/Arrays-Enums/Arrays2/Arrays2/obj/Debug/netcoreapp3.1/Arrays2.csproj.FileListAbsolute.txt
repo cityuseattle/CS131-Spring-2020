@@ -1,0 +1,13 @@
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.exe
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.deps.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.runtimeconfig.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Arrays2\Arrays2\bin\Debug\netcoreapp3.1\Arrays2.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\Arrays2\Arrays2\obj\Debug\netcoreapp3.1\Arrays2.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.exe
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.deps.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\2DArrays\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module2\Arrays-Enums\2DArrays\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.genruntimeconfig.cache

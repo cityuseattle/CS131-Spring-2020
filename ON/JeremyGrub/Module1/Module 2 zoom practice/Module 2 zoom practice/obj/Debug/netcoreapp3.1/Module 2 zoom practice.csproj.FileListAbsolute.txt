@@ -1,0 +1,13 @@
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module1\Module 2 zoom practice\Module 2 zoom practice\bin\Debug\netcoreapp3.1\Module 2 zoom practice.exe
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module1\Module 2 zoom practice\Module 2 zoom practice\bin\Debug\netcoreapp3.1\Module 2 zoom practice.deps.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module1\Module 2 zoom practice\Module 2 zoom practice\bin\Debug\netcoreapp3.1\Module 2 zoom practice.runtimeconfig.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module1\Module 2 zoom practice\Module 2 zoom practice\bin\Debug\netcoreapp3.1\Module 2 zoom practice.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module1\Module 2 zoom practice\Module 2 zoom practice\bin\Debug\netcoreapp3.1\Module 2 zoom practice.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module1\Module 2 zoom practice\Module 2 zoom practice\bin\Debug\netcoreapp3.1\Module 2 zoom practice.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module1\Module 2 zoom practice\Module 2 zoom practice\obj\Debug\netcoreapp3.1\Module 2 zoom practice.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module1\Module 2 zoom practice\Module 2 zoom practice\obj\Debug\netcoreapp3.1\Module 2 zoom practice.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module1\Module 2 zoom practice\Module 2 zoom practice\obj\Debug\netcoreapp3.1\Module 2 zoom practice.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module1\Module 2 zoom practice\Module 2 zoom practice\obj\Debug\netcoreapp3.1\Module 2 zoom practice.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module1\Module 2 zoom practice\Module 2 zoom practice\obj\Debug\netcoreapp3.1\Module 2 zoom practice.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module1\Module 2 zoom practice\Module 2 zoom practice\obj\Debug\netcoreapp3.1\Module 2 zoom practice.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module1\Module 2 zoom practice\Module 2 zoom practice\obj\Debug\netcoreapp3.1\Module 2 zoom practice.genruntimeconfig.cache
