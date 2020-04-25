@@ -1,0 +1,13 @@
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.exe
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.deps.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.runtimeconfig.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module3\Operators-Routines\NumericOperators\NumericOperators\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.genruntimeconfig.cache
