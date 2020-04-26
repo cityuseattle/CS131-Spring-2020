@@ -1,0 +1,13 @@
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module3\Operators-Routines\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.exe
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module3\Operators-Routines\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.deps.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module3\Operators-Routines\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.runtimeconfig.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module3\Operators-Routines\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.runtimeconfig.dev.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module3\Operators-Routines\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.dll
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module3\Operators-Routines\NumericOperators\bin\Debug\netcoreapp3.1\NumericOperators.pdb
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.csprojAssemblyReference.cache
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.csproj.CoreCompileInputs.cache
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.AssemblyInfoInputs.cache
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.AssemblyInfo.cs
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.dll
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.pdb
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module3\Operators-Routines\NumericOperators\obj\Debug\netcoreapp3.1\NumericOperators.genruntimeconfig.cache
