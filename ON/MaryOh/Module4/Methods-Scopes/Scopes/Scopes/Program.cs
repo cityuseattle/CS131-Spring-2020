@@ -14,6 +14,7 @@ namespace Scopes
         static void Main(string[] args)
         {
             ReturnString("CS131 ");
+            Console.WriteLine(Str2);
         }
     }
 }
