@@ -2,7 +2,7 @@
 
 namespace Scopes
 {
-    class Program
+    class Scopes
     {
         public static string Str2;
 
