@@ -1,0 +1,13 @@
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\Expressions\Expressions\obj\Debug\netcoreapp3.1\Expressions.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\Expressions\Expressions\obj\Debug\netcoreapp3.1\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\Expressions\Expressions\obj\Debug\netcoreapp3.1\Expressions.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\Expressions\Expressions\obj\Debug\netcoreapp3.1\Expressions.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\Expressions\Expressions\bin\Debug\netcoreapp3.1\Expressions.exe
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\Expressions\Expressions\bin\Debug\netcoreapp3.1\Expressions.deps.json
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\Expressions\Expressions\bin\Debug\netcoreapp3.1\Expressions.runtimeconfig.json
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\Expressions\Expressions\bin\Debug\netcoreapp3.1\Expressions.runtimeconfig.dev.json
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\Expressions\Expressions\bin\Debug\netcoreapp3.1\Expressions.dll
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\Expressions\Expressions\bin\Debug\netcoreapp3.1\Expressions.pdb
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\Expressions\Expressions\obj\Debug\netcoreapp3.1\Expressions.dll
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\Expressions\Expressions\obj\Debug\netcoreapp3.1\Expressions.pdb
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\Expressions\Expressions\obj\Debug\netcoreapp3.1\Expressions.genruntimeconfig.cache

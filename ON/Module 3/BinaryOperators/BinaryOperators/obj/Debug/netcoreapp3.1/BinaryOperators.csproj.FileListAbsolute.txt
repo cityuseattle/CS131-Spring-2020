@@ -1,0 +1,13 @@
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\BinaryOperators\BinaryOperators\bin\Debug\netcoreapp3.1\BinaryOperators.exe
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\BinaryOperators\BinaryOperators\bin\Debug\netcoreapp3.1\BinaryOperators.deps.json
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\BinaryOperators\BinaryOperators\bin\Debug\netcoreapp3.1\BinaryOperators.runtimeconfig.json
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\BinaryOperators\BinaryOperators\bin\Debug\netcoreapp3.1\BinaryOperators.runtimeconfig.dev.json
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\BinaryOperators\BinaryOperators\bin\Debug\netcoreapp3.1\BinaryOperators.dll
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\BinaryOperators\BinaryOperators\bin\Debug\netcoreapp3.1\BinaryOperators.pdb
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.dll
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.pdb
+C:\Users\HP\Source\Repos\CS131-Spring-2020-ON-Marshall Townsend-Module 3\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.genruntimeconfig.cache
