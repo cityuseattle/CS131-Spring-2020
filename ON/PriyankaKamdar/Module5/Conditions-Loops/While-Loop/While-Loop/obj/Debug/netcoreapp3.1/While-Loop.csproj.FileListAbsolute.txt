@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\Conditions-Loops\While-Loop\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\Conditions-Loops\While-Loop\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\Conditions-Loops\While-Loop\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\Conditions-Loops\While-Loop\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\Conditions-Loops\While-Loop\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\Conditions-Loops\While-Loop\While-Loop\bin\Debug\netcoreapp3.1\While-Loop.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\Conditions-Loops\While-Loop\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\Conditions-Loops\While-Loop\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\Conditions-Loops\While-Loop\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\Conditions-Loops\While-Loop\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\Conditions-Loops\While-Loop\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\Conditions-Loops\While-Loop\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\Conditions-Loops\While-Loop\While-Loop\obj\Debug\netcoreapp3.1\While-Loop.genruntimeconfig.cache

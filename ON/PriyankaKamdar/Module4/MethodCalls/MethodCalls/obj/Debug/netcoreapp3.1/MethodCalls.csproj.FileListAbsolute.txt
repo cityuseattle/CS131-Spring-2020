@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\MethodCalls\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\MethodCalls\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\MethodCalls\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\MethodCalls\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\MethodCalls\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\MethodCalls\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\MethodCalls\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.genruntimeconfig.cache

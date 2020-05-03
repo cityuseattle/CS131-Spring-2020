@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\RefVal\RefVal\obj\Debug\netcoreapp3.1\RefVal.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\RefVal\RefVal\obj\Debug\netcoreapp3.1\RefVal.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\RefVal\RefVal\obj\Debug\netcoreapp3.1\RefVal.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\RefVal\RefVal\obj\Debug\netcoreapp3.1\RefVal.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\RefVal\RefVal\bin\Debug\netcoreapp3.1\RefVal.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\RefVal\RefVal\bin\Debug\netcoreapp3.1\RefVal.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\RefVal\RefVal\bin\Debug\netcoreapp3.1\RefVal.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\RefVal\RefVal\bin\Debug\netcoreapp3.1\RefVal.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\RefVal\RefVal\bin\Debug\netcoreapp3.1\RefVal.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\RefVal\RefVal\bin\Debug\netcoreapp3.1\RefVal.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\RefVal\RefVal\obj\Debug\netcoreapp3.1\RefVal.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\RefVal\RefVal\obj\Debug\netcoreapp3.1\RefVal.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\RefVal\RefVal\obj\Debug\netcoreapp3.1\RefVal.genruntimeconfig.cache

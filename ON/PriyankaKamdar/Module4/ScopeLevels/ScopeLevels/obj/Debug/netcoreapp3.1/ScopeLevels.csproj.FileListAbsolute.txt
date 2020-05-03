@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\ScopeLevels\ScopeLevels\obj\Debug\netcoreapp3.1\ScopeLevels.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\ScopeLevels\ScopeLevels\obj\Debug\netcoreapp3.1\ScopeLevels.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\ScopeLevels\ScopeLevels\obj\Debug\netcoreapp3.1\ScopeLevels.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\ScopeLevels\ScopeLevels\obj\Debug\netcoreapp3.1\ScopeLevels.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\ScopeLevels\ScopeLevels\bin\Debug\netcoreapp3.1\ScopeLevels.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\ScopeLevels\ScopeLevels\bin\Debug\netcoreapp3.1\ScopeLevels.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\ScopeLevels\ScopeLevels\bin\Debug\netcoreapp3.1\ScopeLevels.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\ScopeLevels\ScopeLevels\bin\Debug\netcoreapp3.1\ScopeLevels.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\ScopeLevels\ScopeLevels\bin\Debug\netcoreapp3.1\ScopeLevels.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\ScopeLevels\ScopeLevels\bin\Debug\netcoreapp3.1\ScopeLevels.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\ScopeLevels\ScopeLevels\obj\Debug\netcoreapp3.1\ScopeLevels.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\ScopeLevels\ScopeLevels\obj\Debug\netcoreapp3.1\ScopeLevels.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module4\ScopeLevels\ScopeLevels\obj\Debug\netcoreapp3.1\ScopeLevels.genruntimeconfig.cache
