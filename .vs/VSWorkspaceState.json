@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\IN",
-    "\\ON"
+    "\\ON",
+    "\\ON\\RonaldOdeyemi",
+    "\\ON\\RonaldOdeyemi\\Module4",
+    "\\ON\\RonaldOdeyemi\\Module4\\Methods-Scopes",
+    "\\ON\\RonaldOdeyemi\\Module4\\Methods-Scopes\\Methods"
   ],
-  "SelectedNode": "\\ON",
+  "SelectedNode": "\\ON\\RonaldOdeyemi\\Module4\\Methods-Scopes\\Methods\\Methods.csproj",
   "PreviewInSolutionExplorer": false
 }

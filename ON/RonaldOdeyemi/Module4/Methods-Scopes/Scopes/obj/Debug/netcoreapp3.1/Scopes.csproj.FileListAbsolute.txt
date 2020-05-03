@@ -1,0 +1,12 @@
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module4\Methods-Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.exe
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module4\Methods-Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.deps.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module4\Methods-Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.runtimeconfig.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module4\Methods-Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.runtimeconfig.dev.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module4\Methods-Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.dll
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module4\Methods-Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.pdb
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module4\Methods-Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.csproj.CoreCompileInputs.cache
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module4\Methods-Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.AssemblyInfoInputs.cache
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module4\Methods-Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.AssemblyInfo.cs
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module4\Methods-Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.dll
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module4\Methods-Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.pdb
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module4\Methods-Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.genruntimeconfig.cache
