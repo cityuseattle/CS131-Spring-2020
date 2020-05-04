@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 4\RefVal\bin\Debug\netcoreapp3.1\RefVal.exe
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 4\RefVal\bin\Debug\netcoreapp3.1\RefVal.deps.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 4\RefVal\bin\Debug\netcoreapp3.1\RefVal.runtimeconfig.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 4\RefVal\bin\Debug\netcoreapp3.1\RefVal.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 4\RefVal\bin\Debug\netcoreapp3.1\RefVal.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 4\RefVal\bin\Debug\netcoreapp3.1\RefVal.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 4\RefVal\obj\Debug\netcoreapp3.1\RefVal.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 4\RefVal\obj\Debug\netcoreapp3.1\RefVal.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 4\RefVal\obj\Debug\netcoreapp3.1\RefVal.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 4\RefVal\obj\Debug\netcoreapp3.1\RefVal.AssemblyInfo.cs
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 4\RefVal\obj\Debug\netcoreapp3.1\RefVal.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 4\RefVal\obj\Debug\netcoreapp3.1\RefVal.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 4\RefVal\obj\Debug\netcoreapp3.1\RefVal.genruntimeconfig.cache
