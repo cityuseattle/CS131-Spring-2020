@@ -1,0 +1,13 @@
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module4\Methods-Scopes\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module4\Methods-Scopes\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module4\Methods-Scopes\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module4\Methods-Scopes\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.exe
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module4\Methods-Scopes\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.deps.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module4\Methods-Scopes\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.runtimeconfig.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module4\Methods-Scopes\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module4\Methods-Scopes\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module4\Methods-Scopes\Scopes\Scopes\bin\Debug\netcoreapp3.1\Scopes.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module4\Methods-Scopes\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module4\Methods-Scopes\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module4\Methods-Scopes\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.genruntimeconfig.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module4\Methods-Scopes\Scopes\Scopes\obj\Debug\netcoreapp3.1\Scopes.csprojAssemblyReference.cache
