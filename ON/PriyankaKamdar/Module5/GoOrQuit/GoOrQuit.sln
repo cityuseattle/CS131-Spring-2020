@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoOrQuit", "GoOrQuit\GoOrQuit.csproj", "{988993EC-8BF7-4DE0-B4C1-446F037986EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988993EC-8BF7-4DE0-B4C1-446F037986EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988993EC-8BF7-4DE0-B4C1-446F037986EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988993EC-8BF7-4DE0-B4C1-446F037986EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988993EC-8BF7-4DE0-B4C1-446F037986EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51536219-272E-442B-B0CC-48C747AE6E8C}
+	EndGlobalSection
+EndGlobal

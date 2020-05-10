@@ -15,14 +15,14 @@ namespace Conditional_Statements
             {
                 Console.WriteLine("Your guess was correct!");
             }
-            else if (userInput != num && userInput <= 10)
-            {
-                Console.WriteLine("You guessed wrong, Goodluck next time!");
-            }
             else if (userInput > 10)
             {
                 Console.WriteLine("Number must be between 1 - 10!!!");
             }
+            else if (userInput != num)
+            {
+                Console.WriteLine("You guessed wrong, Goodluck next time!");
+            } 
         }
     }
 }

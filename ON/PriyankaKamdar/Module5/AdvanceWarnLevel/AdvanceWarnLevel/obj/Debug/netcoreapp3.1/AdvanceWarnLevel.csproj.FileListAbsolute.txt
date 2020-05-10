@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\AdvanceWarnLevel\AdvanceWarnLevel\bin\Debug\netcoreapp3.1\AdvanceWarnLevel.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\AdvanceWarnLevel\AdvanceWarnLevel\bin\Debug\netcoreapp3.1\AdvanceWarnLevel.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\AdvanceWarnLevel\AdvanceWarnLevel\bin\Debug\netcoreapp3.1\AdvanceWarnLevel.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\AdvanceWarnLevel\AdvanceWarnLevel\bin\Debug\netcoreapp3.1\AdvanceWarnLevel.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\AdvanceWarnLevel\AdvanceWarnLevel\bin\Debug\netcoreapp3.1\AdvanceWarnLevel.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\AdvanceWarnLevel\AdvanceWarnLevel\bin\Debug\netcoreapp3.1\AdvanceWarnLevel.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\AdvanceWarnLevel\AdvanceWarnLevel\obj\Debug\netcoreapp3.1\AdvanceWarnLevel.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\AdvanceWarnLevel\AdvanceWarnLevel\obj\Debug\netcoreapp3.1\AdvanceWarnLevel.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\AdvanceWarnLevel\AdvanceWarnLevel\obj\Debug\netcoreapp3.1\AdvanceWarnLevel.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\AdvanceWarnLevel\AdvanceWarnLevel\obj\Debug\netcoreapp3.1\AdvanceWarnLevel.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\AdvanceWarnLevel\AdvanceWarnLevel\obj\Debug\netcoreapp3.1\AdvanceWarnLevel.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\AdvanceWarnLevel\AdvanceWarnLevel\obj\Debug\netcoreapp3.1\AdvanceWarnLevel.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\AdvanceWarnLevel\AdvanceWarnLevel\obj\Debug\netcoreapp3.1\AdvanceWarnLevel.genruntimeconfig.cache
