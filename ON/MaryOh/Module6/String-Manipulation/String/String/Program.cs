@@ -12,9 +12,9 @@ namespace String
             string message = Welcome + CourseName;
 
             // Iterate through string message
-            for (int i = 0; i < message.Length; i++)
+            for (int i = 0; i < message.Length; i += 2)
             {
-                Console.WriteLine(message[i]);
+                Console.Write(message[i]);
             }
         }
     }
