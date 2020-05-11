@@ -11,8 +11,10 @@ namespace String
             // Concatenate string using concat() built in method
             string message = string.Concat(Welcome, CourseName);
 
-            // Returns the number of characters including spaces in string message
-            Console.WriteLine(message.Length);
+            // Prints the character at index 0 of the string Welcome
+            Console.WriteLine(Welcome[0]);
+            // Prints the last character of string CourseName
+            Console.WriteLine(CourseName.Substring(CourseName.Length - 1));
         }
     }
 }
