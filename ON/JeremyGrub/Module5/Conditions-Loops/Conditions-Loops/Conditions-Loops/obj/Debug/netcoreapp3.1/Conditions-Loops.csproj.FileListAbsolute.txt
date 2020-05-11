@@ -1,0 +1,13 @@
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\Conditions-Loops\Conditions-Loops\bin\Debug\netcoreapp3.1\Conditions-Loops.exe
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\Conditions-Loops\Conditions-Loops\bin\Debug\netcoreapp3.1\Conditions-Loops.deps.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\Conditions-Loops\Conditions-Loops\bin\Debug\netcoreapp3.1\Conditions-Loops.runtimeconfig.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\Conditions-Loops\Conditions-Loops\bin\Debug\netcoreapp3.1\Conditions-Loops.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\Conditions-Loops\Conditions-Loops\bin\Debug\netcoreapp3.1\Conditions-Loops.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\Conditions-Loops\Conditions-Loops\bin\Debug\netcoreapp3.1\Conditions-Loops.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\Conditions-Loops\Conditions-Loops\obj\Debug\netcoreapp3.1\Conditions-Loops.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\Conditions-Loops\Conditions-Loops\obj\Debug\netcoreapp3.1\Conditions-Loops.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\Conditions-Loops\Conditions-Loops\obj\Debug\netcoreapp3.1\Conditions-Loops.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\Conditions-Loops\Conditions-Loops\obj\Debug\netcoreapp3.1\Conditions-Loops.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\Conditions-Loops\Conditions-Loops\obj\Debug\netcoreapp3.1\Conditions-Loops.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\Conditions-Loops\Conditions-Loops\obj\Debug\netcoreapp3.1\Conditions-Loops.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\Conditions-Loops\Conditions-Loops\obj\Debug\netcoreapp3.1\Conditions-Loops.genruntimeconfig.cache

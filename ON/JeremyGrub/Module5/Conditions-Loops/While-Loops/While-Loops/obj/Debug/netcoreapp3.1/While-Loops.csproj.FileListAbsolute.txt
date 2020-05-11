@@ -1,0 +1,13 @@
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\While-Loops\While-Loops\bin\Debug\netcoreapp3.1\While-Loops.exe
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\While-Loops\While-Loops\bin\Debug\netcoreapp3.1\While-Loops.deps.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\While-Loops\While-Loops\bin\Debug\netcoreapp3.1\While-Loops.runtimeconfig.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\While-Loops\While-Loops\bin\Debug\netcoreapp3.1\While-Loops.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\While-Loops\While-Loops\bin\Debug\netcoreapp3.1\While-Loops.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\While-Loops\While-Loops\bin\Debug\netcoreapp3.1\While-Loops.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\While-Loops\While-Loops\obj\Debug\netcoreapp3.1\While-Loops.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\While-Loops\While-Loops\obj\Debug\netcoreapp3.1\While-Loops.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\While-Loops\While-Loops\obj\Debug\netcoreapp3.1\While-Loops.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\While-Loops\While-Loops\obj\Debug\netcoreapp3.1\While-Loops.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\While-Loops\While-Loops\obj\Debug\netcoreapp3.1\While-Loops.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\While-Loops\While-Loops\obj\Debug\netcoreapp3.1\While-Loops.genruntimeconfig.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module5\Conditions-Loops\While-Loops\While-Loops\obj\Debug\netcoreapp3.1\While-Loops.csprojAssemblyReference.cache
