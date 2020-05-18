@@ -4,20 +4,15 @@ namespace Date_Time
 {
     class Program
     {
-        void GetPersonalInfo()
+        void MonthDay()
         {
-            Console.WriteLine("Enter your name: ");
-            string name = Console.ReadLine();
+            // get current month
+            int month = DateTime.Now.Month;
+            Console.WriteLine(month);
 
-            Console.WriteLine("Enter the year you were born: ");
-            int birthYear = Convert.ToInt32(Console.ReadLine());
-
-            int age = (Convert.ToInt32(DateTime.Now.Year) - birthYear);
-
-            Console.WriteLine("Here is what we know form your inputs:");
-            Console.WriteLine("Your name: " + name);
-            Console.WriteLine("Today is " + DateTime.Now.ToShortDateString());
-            Console.WriteLine("Your age: " + age);
+            // get number of days of this month
+            int day = DateTime.DaysInMonth(DateTime.Now.Year, month);
+            Console.WriteLine(day);
         }
 
         static void Main(string[] args)
@@ -26,7 +21,7 @@ namespace Date_Time
             // access a method of that class
             Program MyProgram = new Program();
 
-            MyProgram.GetPersonalInfo();
+            MyProgram.MonthDay();
         }
     }
 }
