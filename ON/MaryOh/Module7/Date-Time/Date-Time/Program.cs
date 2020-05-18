@@ -4,14 +4,20 @@ namespace Date_Time
 {
     class Program
     {
-        void ShowTime()
+        void GetPersonalInfo()
         {
-            DateTime currentDate = DateTime.Now;
-            bool leapYear = DateTime.IsLeapYear(2020);
+            Console.WriteLine("Enter your name: ");
+            string name = Console.ReadLine();
 
-            Console.WriteLine(currentDate);
-            Console.Write("2020 is a leap year: ");
-            Console.WriteLine(leapYear);
+            Console.WriteLine("Enter the year you were born: ");
+            int birthYear = Convert.ToInt32(Console.ReadLine());
+
+            int age = (Convert.ToInt32(DateTime.Now.Year) - birthYear);
+
+            Console.WriteLine("Here is what we know form your inputs:");
+            Console.WriteLine("Your name: " + name);
+            Console.WriteLine("Today is " + DateTime.Now.ToShortDateString());
+            Console.WriteLine("Your age: " + age);
         }
 
         static void Main(string[] args)
@@ -20,7 +26,7 @@ namespace Date_Time
             // access a method of that class
             Program MyProgram = new Program();
 
-            MyProgram.ShowTime();
+            MyProgram.GetPersonalInfo();
         }
     }
 }
