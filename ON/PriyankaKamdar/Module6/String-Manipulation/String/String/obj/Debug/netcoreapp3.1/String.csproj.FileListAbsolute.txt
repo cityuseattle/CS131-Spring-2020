@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\String-Manipulation\String\String\bin\Debug\netcoreapp3.1\String.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\String-Manipulation\String\String\bin\Debug\netcoreapp3.1\String.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\String-Manipulation\String\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\String-Manipulation\String\String\bin\Debug\netcoreapp3.1\String.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\String-Manipulation\String\String\bin\Debug\netcoreapp3.1\String.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\String-Manipulation\String\String\bin\Debug\netcoreapp3.1\String.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\String-Manipulation\String\String\obj\Debug\netcoreapp3.1\String.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\String-Manipulation\String\String\obj\Debug\netcoreapp3.1\String.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\String-Manipulation\String\String\obj\Debug\netcoreapp3.1\String.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\String-Manipulation\String\String\obj\Debug\netcoreapp3.1\String.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\String-Manipulation\String\String\obj\Debug\netcoreapp3.1\String.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\String-Manipulation\String\String\obj\Debug\netcoreapp3.1\String.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\String-Manipulation\String\String\obj\Debug\netcoreapp3.1\String.genruntimeconfig.cache

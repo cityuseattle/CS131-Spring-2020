@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\MailString\MailString\bin\Debug\netcoreapp3.1\MailString.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\MailString\MailString\bin\Debug\netcoreapp3.1\MailString.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\MailString\MailString\bin\Debug\netcoreapp3.1\MailString.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\MailString\MailString\bin\Debug\netcoreapp3.1\MailString.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\MailString\MailString\bin\Debug\netcoreapp3.1\MailString.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\MailString\MailString\bin\Debug\netcoreapp3.1\MailString.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\MailString\MailString\obj\Debug\netcoreapp3.1\MailString.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\MailString\MailString\obj\Debug\netcoreapp3.1\MailString.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\MailString\MailString\obj\Debug\netcoreapp3.1\MailString.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\MailString\MailString\obj\Debug\netcoreapp3.1\MailString.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\MailString\MailString\obj\Debug\netcoreapp3.1\MailString.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\MailString\MailString\obj\Debug\netcoreapp3.1\MailString.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module6\MailString\MailString\obj\Debug\netcoreapp3.1\MailString.genruntimeconfig.cache
