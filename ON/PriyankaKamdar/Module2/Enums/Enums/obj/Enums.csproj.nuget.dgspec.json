@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sunil Mehtani\\source\\repos\\pkamdar27\\CS131-Spring-2020\\ON\\PriyankaKamdar\\Module2\\Arrays-Enums\\Enums\\Enums\\Enums.csproj": {}
+    "C:\\Users\\yren5\\Source\\Repos\\ryaide\\CS131-Spring-2020\\ON\\PriyankaKamdar\\Module2\\Enums\\Enums\\Enums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sunil Mehtani\\source\\repos\\pkamdar27\\CS131-Spring-2020\\ON\\PriyankaKamdar\\Module2\\Arrays-Enums\\Enums\\Enums\\Enums.csproj": {
+    "C:\\Users\\yren5\\Source\\Repos\\ryaide\\CS131-Spring-2020\\ON\\PriyankaKamdar\\Module2\\Enums\\Enums\\Enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sunil Mehtani\\source\\repos\\pkamdar27\\CS131-Spring-2020\\ON\\PriyankaKamdar\\Module2\\Arrays-Enums\\Enums\\Enums\\Enums.csproj",
+        "projectUniqueName": "C:\\Users\\yren5\\Source\\Repos\\ryaide\\CS131-Spring-2020\\ON\\PriyankaKamdar\\Module2\\Enums\\Enums\\Enums.csproj",
         "projectName": "Enums",
-        "projectPath": "C:\\Users\\Sunil Mehtani\\source\\repos\\pkamdar27\\CS131-Spring-2020\\ON\\PriyankaKamdar\\Module2\\Arrays-Enums\\Enums\\Enums\\Enums.csproj",
-        "packagesPath": "C:\\Users\\Sunil Mehtani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sunil Mehtani\\source\\repos\\pkamdar27\\CS131-Spring-2020\\ON\\PriyankaKamdar\\Module2\\Arrays-Enums\\Enums\\Enums\\obj\\",
+        "projectPath": "C:\\Users\\yren5\\Source\\Repos\\ryaide\\CS131-Spring-2020\\ON\\PriyankaKamdar\\Module2\\Enums\\Enums\\Enums.csproj",
+        "packagesPath": "C:\\Users\\yren5\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yren5\\Source\\Repos\\ryaide\\CS131-Spring-2020\\ON\\PriyankaKamdar\\Module2\\Enums\\Enums\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sunil Mehtani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yren5\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
