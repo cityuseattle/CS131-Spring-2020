@@ -1,0 +1,4 @@
+C:\Users\HP\Source\Repos\ConsoleExercise2\ConsoleExercise2\obj\Debug\netcoreapp3.1\ConsoleExercise2.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\ConsoleExercise2\ConsoleExercise2\obj\Debug\netcoreapp3.1\ConsoleExercise2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\ConsoleExercise2\ConsoleExercise2\obj\Debug\netcoreapp3.1\ConsoleExercise2.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\ConsoleExercise2\ConsoleExercise2\obj\Debug\netcoreapp3.1\ConsoleExercise2.AssemblyInfo.cs

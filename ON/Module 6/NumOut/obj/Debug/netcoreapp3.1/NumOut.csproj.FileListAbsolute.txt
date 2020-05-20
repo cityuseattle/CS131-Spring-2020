@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\NumOut\bin\Debug\netcoreapp3.1\NumOut.exe
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\NumOut\bin\Debug\netcoreapp3.1\NumOut.deps.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\NumOut\bin\Debug\netcoreapp3.1\NumOut.runtimeconfig.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\NumOut\bin\Debug\netcoreapp3.1\NumOut.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\NumOut\bin\Debug\netcoreapp3.1\NumOut.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\NumOut\bin\Debug\netcoreapp3.1\NumOut.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\NumOut\obj\Debug\netcoreapp3.1\NumOut.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\NumOut\obj\Debug\netcoreapp3.1\NumOut.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\NumOut\obj\Debug\netcoreapp3.1\NumOut.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\NumOut\obj\Debug\netcoreapp3.1\NumOut.AssemblyInfo.cs
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\NumOut\obj\Debug\netcoreapp3.1\NumOut.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\NumOut\obj\Debug\netcoreapp3.1\NumOut.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\NumOut\obj\Debug\netcoreapp3.1\NumOut.genruntimeconfig.cache

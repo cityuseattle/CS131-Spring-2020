@@ -1,0 +1,4 @@
+C:\Users\HP\Source\Repos\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csprojAssemblyReference.cache
+C:\Users\HP\Source\Repos\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\Hello World\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs

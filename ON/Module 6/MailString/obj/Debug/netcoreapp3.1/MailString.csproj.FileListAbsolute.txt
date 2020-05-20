@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\MailString\bin\Debug\netcoreapp3.1\MailString.exe
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\MailString\bin\Debug\netcoreapp3.1\MailString.deps.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\MailString\bin\Debug\netcoreapp3.1\MailString.runtimeconfig.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\MailString\bin\Debug\netcoreapp3.1\MailString.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\MailString\bin\Debug\netcoreapp3.1\MailString.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\MailString\bin\Debug\netcoreapp3.1\MailString.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\MailString\obj\Debug\netcoreapp3.1\MailString.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\MailString\obj\Debug\netcoreapp3.1\MailString.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\MailString\obj\Debug\netcoreapp3.1\MailString.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\MailString\obj\Debug\netcoreapp3.1\MailString.AssemblyInfo.cs
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\MailString\obj\Debug\netcoreapp3.1\MailString.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\MailString\obj\Debug\netcoreapp3.1\MailString.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 6\MailString\obj\Debug\netcoreapp3.1\MailString.genruntimeconfig.cache
