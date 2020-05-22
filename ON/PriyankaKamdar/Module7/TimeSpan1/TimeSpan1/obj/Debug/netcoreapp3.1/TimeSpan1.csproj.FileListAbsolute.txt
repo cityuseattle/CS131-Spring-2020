@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\TimeSpan1\TimeSpan1\bin\Debug\netcoreapp3.1\TimeSpan1.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\TimeSpan1\TimeSpan1\bin\Debug\netcoreapp3.1\TimeSpan1.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\TimeSpan1\TimeSpan1\bin\Debug\netcoreapp3.1\TimeSpan1.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\TimeSpan1\TimeSpan1\bin\Debug\netcoreapp3.1\TimeSpan1.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\TimeSpan1\TimeSpan1\bin\Debug\netcoreapp3.1\TimeSpan1.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\TimeSpan1\TimeSpan1\bin\Debug\netcoreapp3.1\TimeSpan1.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\TimeSpan1\TimeSpan1\obj\Debug\netcoreapp3.1\TimeSpan1.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\TimeSpan1\TimeSpan1\obj\Debug\netcoreapp3.1\TimeSpan1.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\TimeSpan1\TimeSpan1\obj\Debug\netcoreapp3.1\TimeSpan1.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\TimeSpan1\TimeSpan1\obj\Debug\netcoreapp3.1\TimeSpan1.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\TimeSpan1\TimeSpan1\obj\Debug\netcoreapp3.1\TimeSpan1.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\TimeSpan1\TimeSpan1\obj\Debug\netcoreapp3.1\TimeSpan1.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\TimeSpan1\TimeSpan1\obj\Debug\netcoreapp3.1\TimeSpan1.genruntimeconfig.cache
