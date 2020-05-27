@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\2DArrays\bin\Debug\netcoreapp3.1\2DArrays.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\2DArrays\obj\Debug\netcoreapp3.1\2DArrays.genruntimeconfig.cache

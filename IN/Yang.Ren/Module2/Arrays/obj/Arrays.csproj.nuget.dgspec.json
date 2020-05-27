@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module1\\Arrays\\Arrays.csproj": {}
+    "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module2\\Arrays\\Arrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module1\\Arrays\\Arrays.csproj": {
+    "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module2\\Arrays\\Arrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module1\\Arrays\\Arrays.csproj",
+        "projectUniqueName": "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module2\\Arrays\\Arrays.csproj",
         "projectName": "Arrays",
-        "projectPath": "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module1\\Arrays\\Arrays.csproj",
+        "projectPath": "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module2\\Arrays\\Arrays.csproj",
         "packagesPath": "C:\\Users\\yren5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module1\\Arrays\\obj\\",
+        "outputPath": "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module2\\Arrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yren5\\AppData\\Roaming\\NuGet\\NuGet.Config",

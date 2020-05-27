@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\CompareString\obj\Debug\netcoreapp3.1\CompareString.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\CompareString\obj\Debug\netcoreapp3.1\CompareString.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\CompareString\obj\Debug\netcoreapp3.1\CompareString.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\CompareString\obj\Debug\netcoreapp3.1\CompareString.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\CompareString\bin\Debug\netcoreapp3.1\CompareString.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\CompareString\bin\Debug\netcoreapp3.1\CompareString.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\CompareString\bin\Debug\netcoreapp3.1\CompareString.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\CompareString\bin\Debug\netcoreapp3.1\CompareString.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\CompareString\bin\Debug\netcoreapp3.1\CompareString.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\CompareString\bin\Debug\netcoreapp3.1\CompareString.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\CompareString\obj\Debug\netcoreapp3.1\CompareString.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\CompareString\obj\Debug\netcoreapp3.1\CompareString.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\CompareString\obj\Debug\netcoreapp3.1\CompareString.genruntimeconfig.cache
