@@ -1,0 +1,13 @@
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module8\OOP\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.exe
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module8\OOP\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.deps.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module8\OOP\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.runtimeconfig.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module8\OOP\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.runtimeconfig.dev.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module8\OOP\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.dll
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module8\OOP\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.pdb
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.csprojAssemblyReference.cache
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.csproj.CoreCompileInputs.cache
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.AssemblyInfoInputs.cache
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.AssemblyInfo.cs
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.dll
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.pdb
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module8\OOP\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.genruntimeconfig.cache
