@@ -11,6 +11,14 @@ namespace OOPInheritance
             public double length;
             public double width;
             public double radius;
+
+            public static void BaseProp(double length, double width, double radius)
+            {
+                Console.WriteLine("Base length is: " + length);
+                Console.WriteLine("Base width is: " + width);
+                Console.WriteLine("Base radius is: " + radius);
+                Console.WriteLine("\n");
+            }
         }
 
         // Rectangle class derived from Shapes base class
@@ -71,10 +79,7 @@ namespace OOPInheritance
             // Use objects to call properties of its classes
             // Since Rectangle, Square, and Circle classes are derived from base class Shapes
             // All of those have access to Shapes' properties length, width, and radius
-            Console.WriteLine("Base length is: " + MyRec.length);
-            Console.WriteLine("Base width is: " + MyRec.width);
-            Console.WriteLine("Base radius is: " + MyCir.radius);
-            Console.WriteLine("\n");
+            Shapes.BaseProp(MyRec.length, MyRec.width, MyCir.radius);
 
             MyRec.CalArea(3, 4);
             Console.WriteLine("\n");
