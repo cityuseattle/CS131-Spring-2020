@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module8\City\City\bin\Debug\netcoreapp3.1\City.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module8\City\City\bin\Debug\netcoreapp3.1\City.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module8\City\City\bin\Debug\netcoreapp3.1\City.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module8\City\City\bin\Debug\netcoreapp3.1\City.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module8\City\City\bin\Debug\netcoreapp3.1\City.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module8\City\City\bin\Debug\netcoreapp3.1\City.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module8\City\City\obj\Debug\netcoreapp3.1\City.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module8\City\City\obj\Debug\netcoreapp3.1\City.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module8\City\City\obj\Debug\netcoreapp3.1\City.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module8\City\City\obj\Debug\netcoreapp3.1\City.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module8\City\City\obj\Debug\netcoreapp3.1\City.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module8\City\City\obj\Debug\netcoreapp3.1\City.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module8\City\City\obj\Debug\netcoreapp3.1\City.genruntimeconfig.cache
