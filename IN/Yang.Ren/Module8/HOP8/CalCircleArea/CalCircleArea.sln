@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalCircleArea", "CalCircleArea.csproj", "{05705FFE-DE56-4189-96B0-87697A92EFEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05705FFE-DE56-4189-96B0-87697A92EFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05705FFE-DE56-4189-96B0-87697A92EFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05705FFE-DE56-4189-96B0-87697A92EFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05705FFE-DE56-4189-96B0-87697A92EFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55457B1B-2969-4905-8689-68E439D7FEE3}
+	EndGlobalSection
+EndGlobal

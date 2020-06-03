@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module8\HOP8\CalCircleArea\bin\Debug\netcoreapp3.1\CalCircleArea.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module8\HOP8\CalCircleArea\bin\Debug\netcoreapp3.1\CalCircleArea.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module8\HOP8\CalCircleArea\bin\Debug\netcoreapp3.1\CalCircleArea.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module8\HOP8\CalCircleArea\bin\Debug\netcoreapp3.1\CalCircleArea.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module8\HOP8\CalCircleArea\bin\Debug\netcoreapp3.1\CalCircleArea.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module8\HOP8\CalCircleArea\bin\Debug\netcoreapp3.1\CalCircleArea.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module8\HOP8\CalCircleArea\obj\Debug\netcoreapp3.1\CalCircleArea.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module8\HOP8\CalCircleArea\obj\Debug\netcoreapp3.1\CalCircleArea.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module8\HOP8\CalCircleArea\obj\Debug\netcoreapp3.1\CalCircleArea.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module8\HOP8\CalCircleArea\obj\Debug\netcoreapp3.1\CalCircleArea.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module8\HOP8\CalCircleArea\obj\Debug\netcoreapp3.1\CalCircleArea.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module8\HOP8\CalCircleArea\obj\Debug\netcoreapp3.1\CalCircleArea.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module8\HOP8\CalCircleArea\obj\Debug\netcoreapp3.1\CalCircleArea.genruntimeconfig.cache
