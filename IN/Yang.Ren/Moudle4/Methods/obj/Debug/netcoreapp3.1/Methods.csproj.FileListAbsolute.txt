@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Moudle4\Methods\bin\Debug\netcoreapp3.1\Methods.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Moudle4\Methods\bin\Debug\netcoreapp3.1\Methods.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Moudle4\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Moudle4\Methods\bin\Debug\netcoreapp3.1\Methods.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Moudle4\Methods\bin\Debug\netcoreapp3.1\Methods.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Moudle4\Methods\bin\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Moudle4\Methods\obj\Debug\netcoreapp3.1\Methods.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Moudle4\Methods\obj\Debug\netcoreapp3.1\Methods.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Moudle4\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Moudle4\Methods\obj\Debug\netcoreapp3.1\Methods.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Moudle4\Methods\obj\Debug\netcoreapp3.1\Methods.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Moudle4\Methods\obj\Debug\netcoreapp3.1\Methods.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Moudle4\Methods\obj\Debug\netcoreapp3.1\Methods.genruntimeconfig.cache
