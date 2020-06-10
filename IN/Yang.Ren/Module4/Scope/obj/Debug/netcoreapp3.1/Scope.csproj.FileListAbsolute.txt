@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\Scope\bin\Debug\netcoreapp3.1\Scope.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\Scope\bin\Debug\netcoreapp3.1\Scope.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\Scope\bin\Debug\netcoreapp3.1\Scope.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\Scope\bin\Debug\netcoreapp3.1\Scope.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\Scope\bin\Debug\netcoreapp3.1\Scope.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\Scope\bin\Debug\netcoreapp3.1\Scope.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\Scope\obj\Debug\netcoreapp3.1\Scope.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\Scope\obj\Debug\netcoreapp3.1\Scope.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\Scope\obj\Debug\netcoreapp3.1\Scope.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\Scope\obj\Debug\netcoreapp3.1\Scope.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\Scope\obj\Debug\netcoreapp3.1\Scope.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\Scope\obj\Debug\netcoreapp3.1\Scope.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\Scope\obj\Debug\netcoreapp3.1\Scope.genruntimeconfig.cache
