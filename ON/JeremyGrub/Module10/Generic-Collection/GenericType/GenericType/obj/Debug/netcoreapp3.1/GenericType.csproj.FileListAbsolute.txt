@@ -1,0 +1,13 @@
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\GenericType\GenericType\bin\Debug\netcoreapp3.1\GenericType.exe
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\GenericType\GenericType\bin\Debug\netcoreapp3.1\GenericType.deps.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\GenericType\GenericType\bin\Debug\netcoreapp3.1\GenericType.runtimeconfig.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\GenericType\GenericType\bin\Debug\netcoreapp3.1\GenericType.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\GenericType\GenericType\bin\Debug\netcoreapp3.1\GenericType.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\GenericType\GenericType\bin\Debug\netcoreapp3.1\GenericType.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\GenericType\GenericType\obj\Debug\netcoreapp3.1\GenericType.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\GenericType\GenericType\obj\Debug\netcoreapp3.1\GenericType.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\GenericType\GenericType\obj\Debug\netcoreapp3.1\GenericType.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\GenericType\GenericType\obj\Debug\netcoreapp3.1\GenericType.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\GenericType\GenericType\obj\Debug\netcoreapp3.1\GenericType.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\GenericType\GenericType\obj\Debug\netcoreapp3.1\GenericType.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\GenericType\GenericType\obj\Debug\netcoreapp3.1\GenericType.genruntimeconfig.cache

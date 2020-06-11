@@ -1,0 +1,13 @@
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.exe
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.deps.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.dev.json
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\ArrayList\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfoInputs.cache
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfo.cs
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.dll
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.pdb
+C:\Users\Jeremy\source\repos\JeremyGrub\CS131-Spring-2020\ON\JeremyGrub\Module10\Generic-Collection\ArrayList\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.genruntimeconfig.cache
