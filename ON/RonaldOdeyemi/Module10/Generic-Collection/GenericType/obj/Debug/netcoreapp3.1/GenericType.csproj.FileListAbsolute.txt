@@ -1,0 +1,13 @@
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\GenericType\bin\Debug\netcoreapp3.1\GenericType.exe
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\GenericType\bin\Debug\netcoreapp3.1\GenericType.deps.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\GenericType\bin\Debug\netcoreapp3.1\GenericType.runtimeconfig.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\GenericType\bin\Debug\netcoreapp3.1\GenericType.runtimeconfig.dev.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\GenericType\bin\Debug\netcoreapp3.1\GenericType.dll
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\GenericType\bin\Debug\netcoreapp3.1\GenericType.pdb
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.csprojAssemblyReference.cache
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.csproj.CoreCompileInputs.cache
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.AssemblyInfoInputs.cache
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.AssemblyInfo.cs
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.dll
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.pdb
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\GenericType\obj\Debug\netcoreapp3.1\GenericType.genruntimeconfig.cache

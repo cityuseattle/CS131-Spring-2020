@@ -1,0 +1,12 @@
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.exe
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.deps.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.runtimeconfig.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.runtimeconfig.dev.json
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.dll
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\Arraylist\bin\Debug\netcoreapp3.1\Arraylist.pdb
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.csproj.CoreCompileInputs.cache
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.AssemblyInfoInputs.cache
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.AssemblyInfo.cs
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.dll
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.pdb
+C:\Users\ronod\OneDrive - City University of Seattle\CityU - CS\CS131-Spring-2020\ON\RonaldOdeyemi\Module10\Generic-Collection\Arraylist\obj\Debug\netcoreapp3.1\Arraylist.genruntimeconfig.cache
