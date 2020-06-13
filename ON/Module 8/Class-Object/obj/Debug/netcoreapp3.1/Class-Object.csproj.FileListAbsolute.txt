@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 8\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 8\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 8\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.AssemblyInfo.cs
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 8\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.exe
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 8\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.deps.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 8\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.runtimeconfig.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 8\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 8\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 8\Class-Object\bin\Debug\netcoreapp3.1\Class-Object.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 8\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 8\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 8\Class-Object\obj\Debug\netcoreapp3.1\Class-Object.genruntimeconfig.cache

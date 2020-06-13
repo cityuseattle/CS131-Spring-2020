@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 7\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 7\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 7\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 7\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.AssemblyInfo.cs
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 7\TimeSpan2\bin\Debug\netcoreapp3.1\TimeSpan2.exe
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 7\TimeSpan2\bin\Debug\netcoreapp3.1\TimeSpan2.deps.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 7\TimeSpan2\bin\Debug\netcoreapp3.1\TimeSpan2.runtimeconfig.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 7\TimeSpan2\bin\Debug\netcoreapp3.1\TimeSpan2.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 7\TimeSpan2\bin\Debug\netcoreapp3.1\TimeSpan2.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 7\TimeSpan2\bin\Debug\netcoreapp3.1\TimeSpan2.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 7\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 7\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 7\TimeSpan2\obj\Debug\netcoreapp3.1\TimeSpan2.genruntimeconfig.cache
