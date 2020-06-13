@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module9\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module9\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module9\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module9\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module9\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module9\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module9\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module9\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module9\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module9\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module9\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module9\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module9\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache

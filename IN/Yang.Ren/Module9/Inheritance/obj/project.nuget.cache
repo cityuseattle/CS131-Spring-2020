@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "YrGjX5rBsBl8+yYS2t0j+0jSBofIhCUGgxL7B3Jub7GYHQQ0u8oNmMOmf0hzuKLrTpNQWq9Acyd7DnX5K5C1TQ==",
+  "dgSpecHash": "+Wm1eZ25WmE9ZtWYyGI2KB2Gj7PCW8ERlx4OvKM9lttpfYBm+mZrnw86qFVnCVIp8t2QXnA9us8JCYQ6GJt/7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module9\\Inheritance\\Inheritance.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yren5\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\yren5\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\yren5\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\yren5\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

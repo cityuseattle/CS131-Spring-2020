@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yren5\\Source\\Repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module6\\MailString\\MailString.csproj": {}
+    "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module6\\MailString\\MailString.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yren5\\Source\\Repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module6\\MailString\\MailString.csproj": {
+    "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module6\\MailString\\MailString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yren5\\Source\\Repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module6\\MailString\\MailString.csproj",
+        "projectUniqueName": "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module6\\MailString\\MailString.csproj",
         "projectName": "MailString",
-        "projectPath": "C:\\Users\\yren5\\Source\\Repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module6\\MailString\\MailString.csproj",
+        "projectPath": "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module6\\MailString\\MailString.csproj",
         "packagesPath": "C:\\Users\\yren5\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yren5\\Source\\Repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module6\\MailString\\obj\\",
+        "outputPath": "C:\\Users\\yren5\\source\\repos\\ryaide\\CS131-Spring-2020\\IN\\Yang.Ren\\Module6\\MailString\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yren5\\AppData\\Roaming\\NuGet\\NuGet.Config",
