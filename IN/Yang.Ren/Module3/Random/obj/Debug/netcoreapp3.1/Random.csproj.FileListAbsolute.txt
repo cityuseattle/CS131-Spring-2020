@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\Random\bin\Debug\netcoreapp3.1\Random.exe
+C:\Users\yren5\source\repos\Random\bin\Debug\netcoreapp3.1\Random.deps.json
+C:\Users\yren5\source\repos\Random\bin\Debug\netcoreapp3.1\Random.runtimeconfig.json
+C:\Users\yren5\source\repos\Random\bin\Debug\netcoreapp3.1\Random.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\Random\bin\Debug\netcoreapp3.1\Random.dll
+C:\Users\yren5\source\repos\Random\bin\Debug\netcoreapp3.1\Random.pdb
+C:\Users\yren5\source\repos\Random\obj\Debug\netcoreapp3.1\Random.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\Random\obj\Debug\netcoreapp3.1\Random.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\Random\obj\Debug\netcoreapp3.1\Random.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\Random\obj\Debug\netcoreapp3.1\Random.AssemblyInfo.cs
+C:\Users\yren5\source\repos\Random\obj\Debug\netcoreapp3.1\Random.dll
+C:\Users\yren5\source\repos\Random\obj\Debug\netcoreapp3.1\Random.pdb
+C:\Users\yren5\source\repos\Random\obj\Debug\netcoreapp3.1\Random.genruntimeconfig.cache
