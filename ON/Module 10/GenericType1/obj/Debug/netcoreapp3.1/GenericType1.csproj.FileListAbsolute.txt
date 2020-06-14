@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 10\GenericType1\bin\Debug\netcoreapp3.1\GenericType1.exe
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 10\GenericType1\bin\Debug\netcoreapp3.1\GenericType1.deps.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 10\GenericType1\bin\Debug\netcoreapp3.1\GenericType1.runtimeconfig.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 10\GenericType1\bin\Debug\netcoreapp3.1\GenericType1.runtimeconfig.dev.json
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 10\GenericType1\bin\Debug\netcoreapp3.1\GenericType1.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 10\GenericType1\bin\Debug\netcoreapp3.1\GenericType1.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 10\GenericType1\obj\Debug\netcoreapp3.1\GenericType1.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 10\GenericType1\obj\Debug\netcoreapp3.1\GenericType1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 10\GenericType1\obj\Debug\netcoreapp3.1\GenericType1.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 10\GenericType1\obj\Debug\netcoreapp3.1\GenericType1.AssemblyInfo.cs
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 10\GenericType1\obj\Debug\netcoreapp3.1\GenericType1.dll
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 10\GenericType1\obj\Debug\netcoreapp3.1\GenericType1.pdb
+C:\Users\HP\Desktop\CS131-Spring-2020\ON\Module 10\GenericType1\obj\Debug\netcoreapp3.1\GenericType1.genruntimeconfig.cache
