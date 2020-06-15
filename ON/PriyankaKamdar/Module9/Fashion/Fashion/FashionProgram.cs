@@ -3,7 +3,7 @@ using System.Transactions;
 
 namespace Fashion
 {
-    class Program
+    class FashionProgram
     {
         static void Main(string[] args)
         {
@@ -13,7 +13,7 @@ namespace Fashion
         }
     }
 
-    class Promotion
+    class Promotion                                        //Stores sale event data.
     {
         public string Name { get; private set; }
         public DateTime Start { get; private set; }
@@ -27,7 +27,7 @@ namespace Fashion
         }
     }
 
-    abstract class Department
+    abstract class Department                      // Abstract class that stores and displays information
     {
         public abstract string DepartmentName { get; protected set; }
         protected Promotion[] sales;
@@ -45,7 +45,7 @@ namespace Fashion
         }
     }
 
-    class Fashion : Department
+    class Fashion : Department                             // Implementing class that sets department name and assign promotions
     {
         public override String DepartmentName { get; protected set; }
 
