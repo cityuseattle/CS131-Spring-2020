@@ -1,0 +1,13 @@
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Yi_Arrays/bin/Debug/netcoreapp3.1/Yi_Arrays
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Yi_Arrays/bin/Debug/netcoreapp3.1/Yi_Arrays.deps.json
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Yi_Arrays/bin/Debug/netcoreapp3.1/Yi_Arrays.runtimeconfig.json
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Yi_Arrays/bin/Debug/netcoreapp3.1/Yi_Arrays.runtimeconfig.dev.json
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Yi_Arrays/bin/Debug/netcoreapp3.1/Yi_Arrays.dll
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Yi_Arrays/bin/Debug/netcoreapp3.1/Yi_Arrays.pdb
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Yi_Arrays/obj/Debug/netcoreapp3.1/Yi_Arrays.csprojAssemblyReference.cache
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Yi_Arrays/obj/Debug/netcoreapp3.1/Yi_Arrays.csproj.CoreCompileInputs.cache
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Yi_Arrays/obj/Debug/netcoreapp3.1/Yi_Arrays.AssemblyInfoInputs.cache
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Yi_Arrays/obj/Debug/netcoreapp3.1/Yi_Arrays.AssemblyInfo.cs
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Yi_Arrays/obj/Debug/netcoreapp3.1/Yi_Arrays.dll
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Yi_Arrays/obj/Debug/netcoreapp3.1/Yi_Arrays.pdb
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Yi_Arrays/obj/Debug/netcoreapp3.1/Yi_Arrays.genruntimeconfig.cache
