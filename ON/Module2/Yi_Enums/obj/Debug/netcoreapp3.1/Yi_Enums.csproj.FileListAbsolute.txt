@@ -1,0 +1,13 @@
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/Yi_Enums/bin/Debug/netcoreapp3.1/Yi_Enums
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/Yi_Enums/bin/Debug/netcoreapp3.1/Yi_Enums.deps.json
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/Yi_Enums/bin/Debug/netcoreapp3.1/Yi_Enums.runtimeconfig.json
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/Yi_Enums/bin/Debug/netcoreapp3.1/Yi_Enums.runtimeconfig.dev.json
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/Yi_Enums/bin/Debug/netcoreapp3.1/Yi_Enums.dll
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/Yi_Enums/bin/Debug/netcoreapp3.1/Yi_Enums.pdb
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/Yi_Enums/obj/Debug/netcoreapp3.1/Yi_Enums.csprojAssemblyReference.cache
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/Yi_Enums/obj/Debug/netcoreapp3.1/Yi_Enums.csproj.CoreCompileInputs.cache
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/Yi_Enums/obj/Debug/netcoreapp3.1/Yi_Enums.AssemblyInfoInputs.cache
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/Yi_Enums/obj/Debug/netcoreapp3.1/Yi_Enums.AssemblyInfo.cs
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/Yi_Enums/obj/Debug/netcoreapp3.1/Yi_Enums.dll
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/Yi_Enums/obj/Debug/netcoreapp3.1/Yi_Enums.pdb
+/home/yidh/Documents/School/Sp20/CS131/Github/CS131-Spring-2020/ON/Module2/Yi_Enums/obj/Debug/netcoreapp3.1/Yi_Enums.genruntimeconfig.cache
