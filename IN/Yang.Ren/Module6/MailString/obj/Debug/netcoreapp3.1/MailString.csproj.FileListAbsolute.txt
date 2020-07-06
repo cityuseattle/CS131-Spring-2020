@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\MailString\bin\Debug\netcoreapp3.1\MailString.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\MailString\bin\Debug\netcoreapp3.1\MailString.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\MailString\bin\Debug\netcoreapp3.1\MailString.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\MailString\bin\Debug\netcoreapp3.1\MailString.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\MailString\bin\Debug\netcoreapp3.1\MailString.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\MailString\bin\Debug\netcoreapp3.1\MailString.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\MailString\obj\Debug\netcoreapp3.1\MailString.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\MailString\obj\Debug\netcoreapp3.1\MailString.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\MailString\obj\Debug\netcoreapp3.1\MailString.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\MailString\obj\Debug\netcoreapp3.1\MailString.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\MailString\obj\Debug\netcoreapp3.1\MailString.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\MailString\obj\Debug\netcoreapp3.1\MailString.genruntimeconfig.cache
+C:\Users\yren5\Source\Repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module6\MailString\obj\Debug\netcoreapp3.1\MailString.csprojAssemblyReference.cache

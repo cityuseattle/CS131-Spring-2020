@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\TimeSpanCalculation\bin\Debug\netcoreapp3.1\TimeSpanCalculation.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\TimeSpanCalculation\bin\Debug\netcoreapp3.1\TimeSpanCalculation.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\TimeSpanCalculation\bin\Debug\netcoreapp3.1\TimeSpanCalculation.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\TimeSpanCalculation\bin\Debug\netcoreapp3.1\TimeSpanCalculation.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\TimeSpanCalculation\bin\Debug\netcoreapp3.1\TimeSpanCalculation.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\TimeSpanCalculation\bin\Debug\netcoreapp3.1\TimeSpanCalculation.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\TimeSpanCalculation\obj\Debug\netcoreapp3.1\TimeSpanCalculation.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\TimeSpanCalculation\obj\Debug\netcoreapp3.1\TimeSpanCalculation.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\TimeSpanCalculation\obj\Debug\netcoreapp3.1\TimeSpanCalculation.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\TimeSpanCalculation\obj\Debug\netcoreapp3.1\TimeSpanCalculation.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\TimeSpanCalculation\obj\Debug\netcoreapp3.1\TimeSpanCalculation.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\TimeSpanCalculation\obj\Debug\netcoreapp3.1\TimeSpanCalculation.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\TimeSpanCalculation\obj\Debug\netcoreapp3.1\TimeSpanCalculation.genruntimeconfig.cache

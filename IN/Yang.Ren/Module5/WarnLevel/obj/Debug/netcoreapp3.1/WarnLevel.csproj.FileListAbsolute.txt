@@ -1,0 +1,4 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\WarnLevel\obj\Debug\netcoreapp3.1\WarnLevel.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\WarnLevel\obj\Debug\netcoreapp3.1\WarnLevel.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\WarnLevel\obj\Debug\netcoreapp3.1\WarnLevel.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\WarnLevel\obj\Debug\netcoreapp3.1\WarnLevel.AssemblyInfo.cs

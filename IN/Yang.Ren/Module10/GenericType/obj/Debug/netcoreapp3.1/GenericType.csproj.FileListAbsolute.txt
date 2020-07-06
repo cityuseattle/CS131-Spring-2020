@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\GenericType\bin\Debug\netcoreapp3.1\GenericType.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\GenericType\obj\Debug\netcoreapp3.1\GenericType.genruntimeconfig.cache

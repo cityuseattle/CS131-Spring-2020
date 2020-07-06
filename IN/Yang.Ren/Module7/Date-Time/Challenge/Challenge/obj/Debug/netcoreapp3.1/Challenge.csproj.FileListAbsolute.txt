@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\Date-Time\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\Date-Time\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\Date-Time\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\Date-Time\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\Date-Time\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\Date-Time\Challenge\Challenge\bin\Debug\netcoreapp3.1\Challenge.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\Date-Time\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\Date-Time\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\Date-Time\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\Date-Time\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\Date-Time\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\Date-Time\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module7\Date-Time\Challenge\Challenge\obj\Debug\netcoreapp3.1\Challenge.genruntimeconfig.cache

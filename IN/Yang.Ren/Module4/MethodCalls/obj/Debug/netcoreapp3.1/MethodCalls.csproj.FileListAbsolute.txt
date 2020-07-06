@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\MethodCalls\bin\Debug\netcoreapp3.1\MethodCalls.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module4\MethodCalls\obj\Debug\netcoreapp3.1\MethodCalls.genruntimeconfig.cache

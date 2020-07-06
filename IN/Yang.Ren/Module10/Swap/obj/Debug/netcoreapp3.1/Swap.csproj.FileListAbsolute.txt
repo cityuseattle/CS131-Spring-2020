@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\Swap\obj\Debug\netcoreapp3.1\Swap.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\Swap\obj\Debug\netcoreapp3.1\Swap.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\Swap\obj\Debug\netcoreapp3.1\Swap.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\Swap\bin\Debug\netcoreapp3.1\Swap.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\Swap\bin\Debug\netcoreapp3.1\Swap.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\Swap\bin\Debug\netcoreapp3.1\Swap.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\Swap\bin\Debug\netcoreapp3.1\Swap.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\Swap\bin\Debug\netcoreapp3.1\Swap.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\Swap\obj\Debug\netcoreapp3.1\Swap.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\Swap\obj\Debug\netcoreapp3.1\Swap.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module10\Swap\obj\Debug\netcoreapp3.1\Swap.genruntimeconfig.cache

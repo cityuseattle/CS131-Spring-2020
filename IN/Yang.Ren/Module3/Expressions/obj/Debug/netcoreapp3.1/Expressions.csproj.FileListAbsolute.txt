@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module3\Expressions\bin\Debug\netcoreapp3.1\Expressions.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module3\Expressions\bin\Debug\netcoreapp3.1\Expressions.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module3\Expressions\bin\Debug\netcoreapp3.1\Expressions.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module3\Expressions\bin\Debug\netcoreapp3.1\Expressions.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module3\Expressions\bin\Debug\netcoreapp3.1\Expressions.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module3\Expressions\bin\Debug\netcoreapp3.1\Expressions.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module3\Expressions\obj\Debug\netcoreapp3.1\Expressions.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module3\Expressions\obj\Debug\netcoreapp3.1\Expressions.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module3\Expressions\obj\Debug\netcoreapp3.1\Expressions.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module3\Expressions\obj\Debug\netcoreapp3.1\Expressions.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module3\Expressions\obj\Debug\netcoreapp3.1\Expressions.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module3\Expressions\obj\Debug\netcoreapp3.1\Expressions.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module3\Expressions\obj\Debug\netcoreapp3.1\Expressions.genruntimeconfig.cache

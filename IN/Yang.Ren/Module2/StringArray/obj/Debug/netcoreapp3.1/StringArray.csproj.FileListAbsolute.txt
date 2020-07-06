@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\StringArray\bin\Debug\netcoreapp3.1\StringArray.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\StringArray\bin\Debug\netcoreapp3.1\StringArray.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\StringArray\bin\Debug\netcoreapp3.1\StringArray.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\StringArray\bin\Debug\netcoreapp3.1\StringArray.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\StringArray\bin\Debug\netcoreapp3.1\StringArray.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\StringArray\bin\Debug\netcoreapp3.1\StringArray.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\StringArray\obj\Debug\netcoreapp3.1\StringArray.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\StringArray\obj\Debug\netcoreapp3.1\StringArray.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\StringArray\obj\Debug\netcoreapp3.1\StringArray.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\StringArray\obj\Debug\netcoreapp3.1\StringArray.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\StringArray\obj\Debug\netcoreapp3.1\StringArray.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\StringArray\obj\Debug\netcoreapp3.1\StringArray.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module2\StringArray\obj\Debug\netcoreapp3.1\StringArray.genruntimeconfig.cache

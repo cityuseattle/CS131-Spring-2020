@@ -1,0 +1,13 @@
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\While Loop\bin\Debug\netcoreapp3.1\While Loop.exe
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\While Loop\bin\Debug\netcoreapp3.1\While Loop.deps.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\While Loop\bin\Debug\netcoreapp3.1\While Loop.runtimeconfig.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\While Loop\bin\Debug\netcoreapp3.1\While Loop.runtimeconfig.dev.json
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\While Loop\bin\Debug\netcoreapp3.1\While Loop.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\While Loop\bin\Debug\netcoreapp3.1\While Loop.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\While Loop\obj\Debug\netcoreapp3.1\While Loop.csprojAssemblyReference.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\While Loop\obj\Debug\netcoreapp3.1\While Loop.csproj.CoreCompileInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\While Loop\obj\Debug\netcoreapp3.1\While Loop.AssemblyInfoInputs.cache
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\While Loop\obj\Debug\netcoreapp3.1\While Loop.AssemblyInfo.cs
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\While Loop\obj\Debug\netcoreapp3.1\While Loop.dll
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\While Loop\obj\Debug\netcoreapp3.1\While Loop.pdb
+C:\Users\yren5\source\repos\ryaide\CS131-Spring-2020\IN\Yang.Ren\Module5\While Loop\obj\Debug\netcoreapp3.1\While Loop.genruntimeconfig.cache
