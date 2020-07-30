@@ -1,0 +1,12 @@
+/Users/y3y0/Projects/NumericOperators/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.deps.json
+/Users/y3y0/Projects/NumericOperators/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.runtimeconfig.json
+/Users/y3y0/Projects/NumericOperators/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.runtimeconfig.dev.json
+/Users/y3y0/Projects/NumericOperators/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.dll
+/Users/y3y0/Projects/NumericOperators/NumericOperators/bin/Debug/netcoreapp3.1/NumericOperators.pdb
+/Users/y3y0/Projects/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.csprojAssemblyReference.cache
+/Users/y3y0/Projects/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.AssemblyInfoInputs.cache
+/Users/y3y0/Projects/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.AssemblyInfo.cs
+/Users/y3y0/Projects/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.csproj.CoreCompileInputs.cache
+/Users/y3y0/Projects/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.dll
+/Users/y3y0/Projects/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.pdb
+/Users/y3y0/Projects/NumericOperators/NumericOperators/obj/Debug/netcoreapp3.1/NumericOperators.genruntimeconfig.cache
