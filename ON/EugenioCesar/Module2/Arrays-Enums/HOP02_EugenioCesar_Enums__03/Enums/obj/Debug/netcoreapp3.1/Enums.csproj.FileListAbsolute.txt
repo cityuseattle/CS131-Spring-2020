@@ -1,0 +1,12 @@
+/Users/y3y0/Projects/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.deps.json
+/Users/y3y0/Projects/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.runtimeconfig.json
+/Users/y3y0/Projects/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.runtimeconfig.dev.json
+/Users/y3y0/Projects/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.dll
+/Users/y3y0/Projects/Enums/Enums/bin/Debug/netcoreapp3.1/Enums.pdb
+/Users/y3y0/Projects/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.csprojAssemblyReference.cache
+/Users/y3y0/Projects/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.AssemblyInfoInputs.cache
+/Users/y3y0/Projects/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.AssemblyInfo.cs
+/Users/y3y0/Projects/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.csproj.CoreCompileInputs.cache
+/Users/y3y0/Projects/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.dll
+/Users/y3y0/Projects/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.pdb
+/Users/y3y0/Projects/Enums/Enums/obj/Debug/netcoreapp3.1/Enums.genruntimeconfig.cache
