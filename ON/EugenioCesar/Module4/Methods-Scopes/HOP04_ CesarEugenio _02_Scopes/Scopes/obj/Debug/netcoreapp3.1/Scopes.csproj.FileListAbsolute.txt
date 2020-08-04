@@ -1,0 +1,12 @@
+/Users/y3y0/Projects/Scopes/Scopes/bin/Debug/netcoreapp3.1/Scopes.deps.json
+/Users/y3y0/Projects/Scopes/Scopes/bin/Debug/netcoreapp3.1/Scopes.runtimeconfig.json
+/Users/y3y0/Projects/Scopes/Scopes/bin/Debug/netcoreapp3.1/Scopes.runtimeconfig.dev.json
+/Users/y3y0/Projects/Scopes/Scopes/bin/Debug/netcoreapp3.1/Scopes.dll
+/Users/y3y0/Projects/Scopes/Scopes/bin/Debug/netcoreapp3.1/Scopes.pdb
+/Users/y3y0/Projects/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.csprojAssemblyReference.cache
+/Users/y3y0/Projects/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.AssemblyInfoInputs.cache
+/Users/y3y0/Projects/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.AssemblyInfo.cs
+/Users/y3y0/Projects/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.csproj.CoreCompileInputs.cache
+/Users/y3y0/Projects/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.dll
+/Users/y3y0/Projects/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.pdb
+/Users/y3y0/Projects/Scopes/Scopes/obj/Debug/netcoreapp3.1/Scopes.genruntimeconfig.cache
