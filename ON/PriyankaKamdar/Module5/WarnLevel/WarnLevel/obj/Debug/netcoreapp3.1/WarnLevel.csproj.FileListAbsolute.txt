@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\WarnLevel\WarnLevel\obj\Debug\netcoreapp3.1\WarnLevel.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\WarnLevel\WarnLevel\obj\Debug\netcoreapp3.1\WarnLevel.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\WarnLevel\WarnLevel\obj\Debug\netcoreapp3.1\WarnLevel.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\WarnLevel\WarnLevel\obj\Debug\netcoreapp3.1\WarnLevel.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\WarnLevel\WarnLevel\bin\Debug\netcoreapp3.1\WarnLevel.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\WarnLevel\WarnLevel\bin\Debug\netcoreapp3.1\WarnLevel.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\WarnLevel\WarnLevel\bin\Debug\netcoreapp3.1\WarnLevel.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\WarnLevel\WarnLevel\bin\Debug\netcoreapp3.1\WarnLevel.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\WarnLevel\WarnLevel\bin\Debug\netcoreapp3.1\WarnLevel.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\WarnLevel\WarnLevel\bin\Debug\netcoreapp3.1\WarnLevel.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\WarnLevel\WarnLevel\obj\Debug\netcoreapp3.1\WarnLevel.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\WarnLevel\WarnLevel\obj\Debug\netcoreapp3.1\WarnLevel.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\WarnLevel\WarnLevel\obj\Debug\netcoreapp3.1\WarnLevel.genruntimeconfig.cache

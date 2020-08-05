@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\Account\Account\bin\Debug\netcoreapp3.1\Account.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\Account\Account\bin\Debug\netcoreapp3.1\Account.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\Account\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\Account\Account\bin\Debug\netcoreapp3.1\Account.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\Account\Account\bin\Debug\netcoreapp3.1\Account.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\Account\Account\obj\Debug\netcoreapp3.1\Account.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\Account\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\Account\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\Account\Account\obj\Debug\netcoreapp3.1\Account.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\Account\Account\obj\Debug\netcoreapp3.1\Account.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\Account\Account\obj\Debug\netcoreapp3.1\Account.genruntimeconfig.cache

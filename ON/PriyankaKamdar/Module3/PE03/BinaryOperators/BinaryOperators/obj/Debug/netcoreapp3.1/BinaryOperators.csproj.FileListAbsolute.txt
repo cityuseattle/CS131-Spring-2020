@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module3\PE03\BinaryOperators\BinaryOperators\bin\Debug\netcoreapp3.1\BinaryOperators.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module3\PE03\BinaryOperators\BinaryOperators\bin\Debug\netcoreapp3.1\BinaryOperators.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module3\PE03\BinaryOperators\BinaryOperators\bin\Debug\netcoreapp3.1\BinaryOperators.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module3\PE03\BinaryOperators\BinaryOperators\bin\Debug\netcoreapp3.1\BinaryOperators.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module3\PE03\BinaryOperators\BinaryOperators\bin\Debug\netcoreapp3.1\BinaryOperators.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module3\PE03\BinaryOperators\BinaryOperators\bin\Debug\netcoreapp3.1\BinaryOperators.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module3\PE03\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module3\PE03\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module3\PE03\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module3\PE03\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module3\PE03\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module3\PE03\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module3\PE03\BinaryOperators\BinaryOperators\obj\Debug\netcoreapp3.1\BinaryOperators.genruntimeconfig.cache

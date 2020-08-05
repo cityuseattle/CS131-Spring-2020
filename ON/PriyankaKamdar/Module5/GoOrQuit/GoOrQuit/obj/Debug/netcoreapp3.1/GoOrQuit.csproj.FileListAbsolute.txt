@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\GoOrQuit\GoOrQuit\bin\Debug\netcoreapp3.1\GoOrQuit.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\GoOrQuit\GoOrQuit\bin\Debug\netcoreapp3.1\GoOrQuit.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\GoOrQuit\GoOrQuit\bin\Debug\netcoreapp3.1\GoOrQuit.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\GoOrQuit\GoOrQuit\bin\Debug\netcoreapp3.1\GoOrQuit.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\GoOrQuit\GoOrQuit\bin\Debug\netcoreapp3.1\GoOrQuit.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\GoOrQuit\GoOrQuit\bin\Debug\netcoreapp3.1\GoOrQuit.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\GoOrQuit\GoOrQuit\obj\Debug\netcoreapp3.1\GoOrQuit.genruntimeconfig.cache

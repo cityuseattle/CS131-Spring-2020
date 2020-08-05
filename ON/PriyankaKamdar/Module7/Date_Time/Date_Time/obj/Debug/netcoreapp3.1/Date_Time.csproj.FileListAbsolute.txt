@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\Date_Time\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\Date_Time\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\Date_Time\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\Date_Time\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\Date_Time\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\Date_Time\Date_Time\bin\Debug\netcoreapp3.1\Date_Time.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module7\Date_Time\Date_Time\obj\Debug\netcoreapp3.1\Date_Time.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\stringLoop\stringLoop\bin\Debug\netcoreapp3.1\stringLoop.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\stringLoop\stringLoop\bin\Debug\netcoreapp3.1\stringLoop.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\stringLoop\stringLoop\bin\Debug\netcoreapp3.1\stringLoop.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\stringLoop\stringLoop\bin\Debug\netcoreapp3.1\stringLoop.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\stringLoop\stringLoop\bin\Debug\netcoreapp3.1\stringLoop.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\stringLoop\stringLoop\bin\Debug\netcoreapp3.1\stringLoop.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\stringLoop\stringLoop\obj\Debug\netcoreapp3.1\stringLoop.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\stringLoop\stringLoop\obj\Debug\netcoreapp3.1\stringLoop.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\stringLoop\stringLoop\obj\Debug\netcoreapp3.1\stringLoop.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\stringLoop\stringLoop\obj\Debug\netcoreapp3.1\stringLoop.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\stringLoop\stringLoop\obj\Debug\netcoreapp3.1\stringLoop.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\stringLoop\stringLoop\obj\Debug\netcoreapp3.1\stringLoop.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module5\stringLoop\stringLoop\obj\Debug\netcoreapp3.1\stringLoop.genruntimeconfig.cache

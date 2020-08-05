@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\OOP- Inheritance\OOP- Inheritance\bin\Debug\netcoreapp3.1\OOP- Inheritance.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\OOP- Inheritance\OOP- Inheritance\bin\Debug\netcoreapp3.1\OOP- Inheritance.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\OOP- Inheritance\OOP- Inheritance\bin\Debug\netcoreapp3.1\OOP- Inheritance.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\OOP- Inheritance\OOP- Inheritance\bin\Debug\netcoreapp3.1\OOP- Inheritance.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\OOP- Inheritance\OOP- Inheritance\bin\Debug\netcoreapp3.1\OOP- Inheritance.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\OOP- Inheritance\OOP- Inheritance\bin\Debug\netcoreapp3.1\OOP- Inheritance.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\OOP- Inheritance\OOP- Inheritance\obj\Debug\netcoreapp3.1\OOP- Inheritance.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\OOP- Inheritance\OOP- Inheritance\obj\Debug\netcoreapp3.1\OOP- Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\OOP- Inheritance\OOP- Inheritance\obj\Debug\netcoreapp3.1\OOP- Inheritance.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\OOP- Inheritance\OOP- Inheritance\obj\Debug\netcoreapp3.1\OOP- Inheritance.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\OOP- Inheritance\OOP- Inheritance\obj\Debug\netcoreapp3.1\OOP- Inheritance.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\OOP- Inheritance\OOP- Inheritance\obj\Debug\netcoreapp3.1\OOP- Inheritance.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module9\OOP- Inheritance\OOP- Inheritance\obj\Debug\netcoreapp3.1\OOP- Inheritance.genruntimeconfig.cache

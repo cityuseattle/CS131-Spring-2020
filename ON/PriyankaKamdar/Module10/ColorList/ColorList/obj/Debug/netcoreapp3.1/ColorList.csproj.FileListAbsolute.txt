@@ -1,0 +1,13 @@
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.csprojAssemblyReference.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.csproj.CoreCompileInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.AssemblyInfoInputs.cache
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.AssemblyInfo.cs
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module10\ColorList\ColorList\bin\Debug\netcoreapp3.1\ColorList.exe
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module10\ColorList\ColorList\bin\Debug\netcoreapp3.1\ColorList.deps.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module10\ColorList\ColorList\bin\Debug\netcoreapp3.1\ColorList.runtimeconfig.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module10\ColorList\ColorList\bin\Debug\netcoreapp3.1\ColorList.runtimeconfig.dev.json
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module10\ColorList\ColorList\bin\Debug\netcoreapp3.1\ColorList.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module10\ColorList\ColorList\bin\Debug\netcoreapp3.1\ColorList.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.dll
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.pdb
+C:\Users\Sunil Mehtani\source\repos\pkamdar27\CS131-Spring-2020\ON\PriyankaKamdar\Module10\ColorList\ColorList\obj\Debug\netcoreapp3.1\ColorList.genruntimeconfig.cache
