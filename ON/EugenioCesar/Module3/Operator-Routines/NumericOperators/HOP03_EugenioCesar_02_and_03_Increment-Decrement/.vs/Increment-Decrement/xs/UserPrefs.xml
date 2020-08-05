@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7D88A6F5-4AF5-4123-AB05-1AC7DAD54523}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Increment-Decrement/Program.cs">
+    <Files>
+      <File FileName="Increment-Decrement/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Increment-Decrement" expanded="True">
+            <Node name="Increment-Decrement" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Increment-Decrement FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

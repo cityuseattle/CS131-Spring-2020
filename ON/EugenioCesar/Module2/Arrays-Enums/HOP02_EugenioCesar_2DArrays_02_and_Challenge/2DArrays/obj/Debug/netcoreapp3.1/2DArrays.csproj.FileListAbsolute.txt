@@ -1,0 +1,12 @@
+/Users/y3y0/Projects/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.deps.json
+/Users/y3y0/Projects/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.runtimeconfig.json
+/Users/y3y0/Projects/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.runtimeconfig.dev.json
+/Users/y3y0/Projects/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.dll
+/Users/y3y0/Projects/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.pdb
+/Users/y3y0/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.csprojAssemblyReference.cache
+/Users/y3y0/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.AssemblyInfoInputs.cache
+/Users/y3y0/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.AssemblyInfo.cs
+/Users/y3y0/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.csproj.CoreCompileInputs.cache
+/Users/y3y0/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.dll
+/Users/y3y0/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.pdb
+/Users/y3y0/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.genruntimeconfig.cache

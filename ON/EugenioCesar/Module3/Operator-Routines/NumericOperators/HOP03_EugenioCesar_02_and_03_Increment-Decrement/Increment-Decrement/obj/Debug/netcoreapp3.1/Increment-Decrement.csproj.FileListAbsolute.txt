@@ -1,0 +1,11 @@
+/Users/y3y0/Projects/Increment-Decrement/Increment-Decrement/bin/Debug/netcoreapp3.1/Increment-Decrement.deps.json
+/Users/y3y0/Projects/Increment-Decrement/Increment-Decrement/bin/Debug/netcoreapp3.1/Increment-Decrement.runtimeconfig.json
+/Users/y3y0/Projects/Increment-Decrement/Increment-Decrement/bin/Debug/netcoreapp3.1/Increment-Decrement.runtimeconfig.dev.json
+/Users/y3y0/Projects/Increment-Decrement/Increment-Decrement/bin/Debug/netcoreapp3.1/Increment-Decrement.dll
+/Users/y3y0/Projects/Increment-Decrement/Increment-Decrement/bin/Debug/netcoreapp3.1/Increment-Decrement.pdb
+/Users/y3y0/Projects/Increment-Decrement/Increment-Decrement/obj/Debug/netcoreapp3.1/Increment-Decrement.AssemblyInfoInputs.cache
+/Users/y3y0/Projects/Increment-Decrement/Increment-Decrement/obj/Debug/netcoreapp3.1/Increment-Decrement.AssemblyInfo.cs
+/Users/y3y0/Projects/Increment-Decrement/Increment-Decrement/obj/Debug/netcoreapp3.1/Increment-Decrement.csproj.CoreCompileInputs.cache
+/Users/y3y0/Projects/Increment-Decrement/Increment-Decrement/obj/Debug/netcoreapp3.1/Increment-Decrement.dll
+/Users/y3y0/Projects/Increment-Decrement/Increment-Decrement/obj/Debug/netcoreapp3.1/Increment-Decrement.pdb
+/Users/y3y0/Projects/Increment-Decrement/Increment-Decrement/obj/Debug/netcoreapp3.1/Increment-Decrement.genruntimeconfig.cache
